@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.hortonworks</groupId>
-    <artifactId>iot-lab</artifactId>
+    <artifactId>iot-masterclass</artifactId>
     <version>2.3.0.0-2557</version>
     <modules>
         <module>common-sources</module>
@@ -14,8 +14,8 @@
     </modules>
     <packaging>pom</packaging>
 
-    <name>iot-lab</name>
-    <url>http://maven.apache.org</url>
+    <name>iot-masterclass</name>
+    <url>http://wwww.hortonworks.com</url>
 
     <repositories>
         <repository>
